@@ -1,10 +1,13 @@
-# Current Roles
+## Current Roles
 **Digital Humanities Fellow**, [JSTOR Labs](https://labs.jstor.org/)
+
 **Faculty**, Mike Ilitch School of Business, [Wayne State University](https://ilitchbusiness.wayne.edu/)
 
 ## Past Roles
 **Digital Scholarship Specialist** University Libraries at UNC Chapel Hill
+
 **Manager of Digital Projects** Detroit Historical Society
+
 **Faculty**, Humanities, Lawrence Technological University
 
 ## Current Projects
