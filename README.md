@@ -4,9 +4,9 @@
 **Faculty**, Mike Ilitch School of Business, [Wayne State University](https://ilitchbusiness.wayne.edu/)
 
 ## Past Roles
-**Digital Scholarship Specialist** University Libraries at UNC Chapel Hill
+**Digital Scholarship Specialist**, University Libraries at UNC Chapel Hill
 
-**Manager of Digital Projects** Detroit Historical Society
+**Manager of Digital Projects**, Detroit Historical Society
 
 **Faculty**, Humanities, Lawrence Technological University
 
@@ -38,12 +38,15 @@ Developing authoring tools for environmental storytelling with Linked Open Data,
 ### [Detroit 67](https://detroit1967.org/)
 An IMLS medal-winning community history project to commemorate the 50th anniversary of the 1967 civil rights uprising in Detroit.
 
-## Social Media
+## Skills
 
-[![Linkedin logo](https://github.com/nkelber/nkelber/blob/master/linkedin.png)](https://www.linkedin.com/in/nkelber)
-[![Twitter logo](https://github.com/nkelber/nkelber/blob/master/twitter.png)](http://twitter.com/nkelber)
+### Soft
+Project management, community building, technical training, grant writing
 
+### Hard
+Text Analysis, Python, Jupyter, JSON 
 
+## [Full CV](https://docs.google.com/document/d/1yu_JzqxbjoY5akG_GB12rK56j9MRAKEUAFKcBu1_jU8/edit?usp=sharing)
 
 
 
