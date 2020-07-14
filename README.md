@@ -1,4 +1,4 @@
-![Image of Nathan Kelber](./nkelber/nkelber/profile.jpg)
+![Image of Nathan Kelber](https://github.com/nkelber/nkelber/blob/master/profile.jpg)
 
 Nathan Kelber, PhD
 Digital Humanities Fellow @ [JSTOR Labs](https://labs.jstor.org/)
