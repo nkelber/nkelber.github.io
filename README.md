@@ -35,7 +35,7 @@ A project to bring JSTOR content for free to prisoners pursuing higher education
 ### [The Plant Humanities Initiative](https://plant-humanities.app/)
 Developing authoring tools for environmental storytelling with Linked Open Data, GeoJSON, and IIIF. Funded by Andrew W. Mellon Foundation.
 
-[![An image preview of DH2020 presentation](maxresdefault2.jpg)](https://youtu.be/tDHhx4DFuCM)
+[![An image preview of DH2020 presentation](maxresdefault2.jpg)](https://youtu.be/typwzKU25Fs)
 
 ## Past Projects
 
