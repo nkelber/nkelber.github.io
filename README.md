@@ -27,7 +27,7 @@ A platform for teaching and learning text analysis using Binder, Jupyter, and Py
 ### [On the Books: Jim Crow and Algorithms of Resistance](https://unc-libraries-data.github.io/OnTheBooks/)
 A research project using machine-learning to discover Jim/Jane Crow congressional laws passed in the state of North Carolina. Funded by Andrew W. Mellon Foundation. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/doyN6t7htlA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![An image preview of DH2020 presentation](maxresdefault.jpg)](https://www.youtube.com/watch?v=doyN6t7htlA)
 Digital Humanities 2020 Presentation
 
 ### JSTOR Access for Higher Education in Prison
