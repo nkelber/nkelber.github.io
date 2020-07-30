@@ -37,8 +37,6 @@ Developing authoring tools for environmental storytelling with Linked Open Data,
 
 [![An image preview of DH2020 presentation](maxresdefault2.jpg)](https://youtu.be/tDHhx4DFuCM)
 
-https://youtu.be/tDHhx4DFuCM
-
 ## Past Projects
 
 ### [Detroit 67](https://detroit1967.org/)
