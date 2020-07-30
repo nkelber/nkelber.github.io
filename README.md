@@ -25,7 +25,10 @@ A platform for teaching and learning text analysis using Binder, Jupyter, and Py
 * [LDA Topic Modeling](https://docs.tdm-pilot.org/topic-modeling/)
 
 ### [On the Books: Jim Crow and Algorithms of Resistance](https://unc-libraries-data.github.io/OnTheBooks/)
-A research project using machine-learning to discover Jim/Jane Crow congressional laws passed in the state of North Carolina. Funded by Andrew W. Mellon Foundation.
+A research project using machine-learning to discover Jim/Jane Crow congressional laws passed in the state of North Carolina. Funded by Andrew W. Mellon Foundation. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/doyN6t7htlA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Digital Humanities 2020 Presentation
 
 ### JSTOR Access for Higher Education in Prison
 A project to bring JSTOR content for free to prisoners pursuing higher education. Funded by the Andrew W. Mellon Foundation.
