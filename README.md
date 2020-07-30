@@ -28,13 +28,16 @@ A platform for teaching and learning text analysis using Binder, Jupyter, and Py
 A research project using machine-learning to discover Jim/Jane Crow congressional laws passed in the state of North Carolina. Funded by Andrew W. Mellon Foundation. 
 
 [![An image preview of DH2020 presentation](maxresdefault.jpg)](https://www.youtube.com/watch?v=doyN6t7htlA)
-Digital Humanities 2020 Presentation
 
-### JSTOR Access for Higher Education in Prison
+### [JSTOR Access for Higher Education in Prison](https://www.ithaka.org/news/ithaka-awarded-grant-improve-higher-education-prisons/)
 A project to bring JSTOR content for free to prisoners pursuing higher education. Funded by the Andrew W. Mellon Foundation.
 
 ### [The Plant Humanities Initiative](https://plant-humanities.app/)
 Developing authoring tools for environmental storytelling with Linked Open Data, GeoJSON, and IIIF. Funded by Andrew W. Mellon Foundation.
+
+[![An image preview of DH2020 presentation](maxresdefault2.jpg)](https://youtu.be/tDHhx4DFuCM)
+
+https://youtu.be/tDHhx4DFuCM
 
 ## Past Projects
 
