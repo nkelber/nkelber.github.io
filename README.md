@@ -24,18 +24,15 @@ A platform for teaching and learning text analysis using Binder, Jupyter, and Py
 * [Finding Significant Words using TF/IDF](https://docs.tdm-pilot.org/finding-significant-words-using-tf-idf/)
 * [LDA Topic Modeling](https://docs.tdm-pilot.org/topic-modeling/)
 
-### [On the Books: Jim Crow and Algorithms of Resistance](https://unc-libraries-data.github.io/OnTheBooks/)
+### [On the Books: Jim Crow and Algorithms of Resistance](https://onthebooks.lib.unc.edu/)
 A research project using machine-learning to discover Jim/Jane Crow congressional laws passed in the state of North Carolina. Funded by Andrew W. Mellon Foundation. 
-
-[![An image preview of DH2020 presentation](maxresdefault.jpg)](https://www.youtube.com/watch?v=doyN6t7htlA)
+[Learn more](https://www.youtube.com/watch?v=doyN6t7htlA)
 
 ### [JSTOR Access for Higher Education in Prison](https://www.ithaka.org/news/ithaka-awarded-grant-improve-higher-education-prisons/)
 A project to bring JSTOR content for free to prisoners pursuing higher education. Funded by the Andrew W. Mellon Foundation.
 
 ### [The Plant Humanities Initiative](https://plant-humanities.app/)
 Developing authoring tools for environmental storytelling with Linked Open Data, GeoJSON, and IIIF. Funded by Andrew W. Mellon Foundation.
-
-[![An image preview of DH2020 presentation](maxresdefault2.jpg)](https://youtu.be/typwzKU25Fs)
 
 ## Past Projects
 
