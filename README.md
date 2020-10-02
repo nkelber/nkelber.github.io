@@ -1,5 +1,5 @@
 ## Current Roles
-**Digital Humanities Fellow**, [JSTOR Labs](https://labs.jstor.org/)
+**Community Engagement Lead**, [JSTOR Labs](https://labs.jstor.org/)
 
 **Faculty**, Mike Ilitch School of Business, [Wayne State University](https://ilitchbusiness.wayne.edu/)
 
@@ -11,6 +11,8 @@
 **Faculty**, Humanities, Lawrence Technological University
 
 ## Current Projects
+### Text Analysis Pedagogy Institute (2021-2022)
+A series of national workshops, to be hosted at the University of Virginia and the University of Arizona, on approaches for teaching computational text analysis. Funded by the National Endowment for the Humanities.
 
 ### [Digital Scholar Workbench](http://tdm-pilot.org)
 A platform for teaching and learning text analysis using Binder, Jupyter, and Python.
