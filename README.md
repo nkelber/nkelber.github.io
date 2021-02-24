@@ -3,6 +3,8 @@
 
 **Faculty**, Mike Ilitch School of Business, [Wayne State University](https://ilitchbusiness.wayne.edu/)
 
+**Director**, [Text Analysis Pedagogy Institute](https://labs.jstor.org/tapi)
+
 ## Past Roles
 **Digital Scholarship Specialist**, University Libraries at UNC Chapel Hill
 
