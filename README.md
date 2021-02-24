@@ -16,7 +16,7 @@
 ### [Text Analysis Pedagogy Institute (2021-2022)](https://labs.jstor.org/tapi)
 A series of national workshops, to be hosted at the University of Virginia and the University of Arizona, on approaches for teaching computational text analysis. Funded by the National Endowment for the Humanities.
 
-### [Digital Scholar Workbench](http://tdm-pilot.org)
+### [Constellate](http://tdm-pilot.org)
 A platform for teaching and learning text analysis using Binder, Jupyter, and Python.
 
 * [Getting Started with Jupyter Notebooks](https://docs.tdm-pilot.org/intro-to-jupyter-notebooks/)
