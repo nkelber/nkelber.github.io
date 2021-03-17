@@ -1,4 +1,4 @@
-
+![An image of Nathan Kelber](./KelberSmall.jpg)
 
 # Nathan Kelber
 
