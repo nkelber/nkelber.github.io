@@ -49,7 +49,7 @@ An IMLS medal-winning community history project to commemorate the 50th annivers
 Project management, community building, technical training, grant writing
 
 ### Hard
-Text Analysis, Python, Jupyter, JSON 
+Text Analysis, Python, SQL, Machine Learning, Data Visualization
 
 ## [Full CV](https://docs.google.com/document/d/1yu_JzqxbjoY5akG_GB12rK56j9MRAKEUAFKcBu1_jU8/edit?usp=sharing)
 
