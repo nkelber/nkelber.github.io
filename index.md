@@ -3,7 +3,7 @@
 
 **Faculty**, Mike Ilitch School of Business, [Wayne State University](https://ilitchbusiness.wayne.edu/)
 
-**Director**, [Text Analysis Pedagogy Institute](https://labs.jstor.org/tapi)
+**Director**, [Text Analysis Pedagogy Institute](https://nkelber.github.io/tapi2021/book/intro.html)
 
 ## Past Roles
 **Digital Scholarship Specialist**, University Libraries at UNC Chapel Hill
@@ -13,30 +13,31 @@
 **Faculty**, Humanities, Lawrence Technological University
 
 ## Current Projects
-### [Text Analysis Pedagogy Institute (2021-2022)](https://labs.jstor.org/tapi)
+### [Text Analysis Pedagogy Institute (2021-2022)](https://nkelber.github.io/tapi2021/book/intro.html)
 A series of national workshops, to be hosted at the University of Virginia and the University of Arizona, on approaches for teaching computational text analysis. Funded by the National Endowment for the Humanities.
 
-### [Constellate](http://tdm-pilot.org)
+### [Constellate](http://constellate.org)
 A platform for teaching and learning text analysis using Binder, Jupyter, and Python.
 
-* [Getting Started with Jupyter Notebooks](https://docs.tdm-pilot.org/intro-to-jupyter-notebooks/)
-* [Python Basics I](https://docs.tdm-pilot.org/python-basics-i/)
-* [Python Basics II](https://docs.tdm-pilot.org/python-basics-ii/)
-* [Python Basics III](https://docs.tdm-pilot.org/python-basics-iii/)
-* [Exploring Metadata](https://docs.tdm-pilot.org/exploring-metadata/)
-* [Exploring Word Frequencies](https://docs.tdm-pilot.org/word-frequencies/)
-* [Finding Significant Words using TF/IDF](https://docs.tdm-pilot.org/finding-significant-words-using-tf-idf/)
-* [LDA Topic Modeling](https://docs.tdm-pilot.org/topic-modeling/)
+* [Getting Started with Jupyter Notebooks](https://ithaka.github.io/tdm-notebooks/getting-started-with-jupyter.html)
+* [Python Basics I](https://ithaka.github.io/tdm-notebooks/python-basics-1.html)
+* [Python Basics II](https://ithaka.github.io/tdm-notebooks/python-basics-2.html)
+* [Python Basics III](https://ithaka.github.io/tdm-notebooks/python-basics-3.html)
+* [Exploring Metadata](https://ithaka.github.io/tdm-notebooks/exploring-metadata.html)
+* [Exploring Word Frequencies](https://ithaka.github.io/tdm-notebooks/exploring-word-frequencies.html)
+* [Creating a Stopwords List](https://ithaka.github.io/tdm-notebooks/creating-stopwords-list.html)
+* [Finding Significant Words using TF/IDF](https://ithaka.github.io/tdm-notebooks/finding-significant-terms.html)
+* [LDA Topic Modeling](https://ithaka.github.io/tdm-notebooks/topic-modeling.html)
+* [Sentiment Analysis with VADER](https://ithaka.github.io/tdm-notebooks/sentiment-analysis-with-vader.html)
 
 ### [On the Books: Jim Crow and Algorithms of Resistance](https://onthebooks.lib.unc.edu/)
-A research project using machine-learning to discover Jim/Jane Crow congressional laws passed in the state of North Carolina. Funded by Andrew W. Mellon Foundation. 
-[Learn more](https://www.youtube.com/watch?v=doyN6t7htlA)
+A research project using machine-learning to discover Jim/Jane Crow congressional laws passed in the state of North Carolina. Funded by Andrew W. Mellon Foundation. [Learn more](https://www.youtube.com/watch?v=doyN6t7htlA).
 
 ### [JSTOR Access for Higher Education in Prison](https://www.ithaka.org/news/ithaka-awarded-grant-improve-higher-education-prisons/)
 A project to bring JSTOR content for free to prisoners pursuing higher education. Funded by the Andrew W. Mellon Foundation.
 
-### [The Plant Humanities Initiative](https://plant-humanities.app/)
-Developing authoring tools for environmental storytelling with Linked Open Data, GeoJSON, and IIIF. Funded by Andrew W. Mellon Foundation.
+### [Juncture](https://juncture-digital.org/)
+A free-to-use, open source framework for converting simple text files into an engaging visual essay. 
 
 ## Past Projects
 
