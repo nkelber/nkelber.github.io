@@ -21,7 +21,7 @@ A platform for teaching and learning text analysis using Binder, Jupyter, and Py
 View [my tutorials](https://constellate.org/tutorials), including:
 
 * Getting Started with Jupyter Notebooks
-* Python Basics I, II, III
+* Python Basics Series
 * Exploring Word Frequencies
 * Creating a Stopwords List
 * Finding Significant Words using TF/IDF
