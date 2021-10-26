@@ -1,9 +1,9 @@
 ## Current Roles
 **Community Engagement Lead**, [JSTOR Labs](https://labs.jstor.org/)
 
-**Faculty**, Mike Ilitch School of Business, [Wayne State University](https://ilitchbusiness.wayne.edu/)
-
 **Director**, [Text Analysis Pedagogy Institute](https://nkelber.github.io/tapi2021/book/intro.html)
+
+**Faculty**, Mike Ilitch School of Business, [Wayne State University](https://ilitchbusiness.wayne.edu/)
 
 ## Past Roles
 **Digital Scholarship Specialist**, University Libraries at UNC Chapel Hill
@@ -51,10 +51,3 @@ Project management, community building, technical training, grant writing
 Text Analysis, Python, SQL, Machine Learning, Data Visualization
 
 ## [Full CV](https://docs.google.com/document/d/1yu_JzqxbjoY5akG_GB12rK56j9MRAKEUAFKcBu1_jU8/edit?usp=sharing)
-
-
-
-
-
-
-
