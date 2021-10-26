@@ -17,18 +17,16 @@
 A series of national workshops, to be hosted at the University of Virginia and the University of Arizona, on approaches for teaching computational text analysis. Funded by the National Endowment for the Humanities.
 
 ### [Constellate](http://constellate.org)
-A platform for teaching and learning text analysis using Binder, Jupyter, and Python.
+A platform for teaching and learning text analysis using Binder, Jupyter, and Python. 
+View [my tutorials](https://constellate.org/tutorials), including:
 
-* [Getting Started with Jupyter Notebooks](https://ithaka.github.io/tdm-notebooks/getting-started-with-jupyter.html)
-* [Python Basics I](https://ithaka.github.io/tdm-notebooks/python-basics-1.html)
-* [Python Basics II](https://ithaka.github.io/tdm-notebooks/python-basics-2.html)
-* [Python Basics III](https://ithaka.github.io/tdm-notebooks/python-basics-3.html)
-* [Exploring Metadata](https://ithaka.github.io/tdm-notebooks/exploring-metadata.html)
-* [Exploring Word Frequencies](https://ithaka.github.io/tdm-notebooks/exploring-word-frequencies.html)
-* [Creating a Stopwords List](https://ithaka.github.io/tdm-notebooks/creating-stopwords-list.html)
-* [Finding Significant Words using TF/IDF](https://ithaka.github.io/tdm-notebooks/finding-significant-terms.html)
-* [LDA Topic Modeling](https://ithaka.github.io/tdm-notebooks/topic-modeling.html)
-* [Sentiment Analysis with VADER](https://ithaka.github.io/tdm-notebooks/sentiment-analysis-with-vader.html)
+* Getting Started with Jupyter Notebooks
+* Python Basics I, II, III
+* Exploring Word Frequencies
+* Creating a Stopwords List
+* Finding Significant Words using TF/IDF
+* LDA Topic Modeling
+* Sentiment Analysis with VADER
 
 ### [On the Books: Jim Crow and Algorithms of Resistance](https://onthebooks.lib.unc.edu/)
 A research project using machine-learning to discover Jim/Jane Crow congressional laws passed in the state of North Carolina. Funded by Andrew W. Mellon Foundation. [Learn more](https://www.youtube.com/watch?v=doyN6t7htlA).
