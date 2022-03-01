@@ -1,5 +1,5 @@
 ## Current Roles
-**Community Engagement Lead**, [JSTOR Labs](https://labs.jstor.org/)
+**Constellate Education Manager**, [JSTOR Labs](https://labs.jstor.org/)
 
 **Director**, [Text Analysis Pedagogy Institute](https://nkelber.github.io/tapi2021/book/intro.html)
 
