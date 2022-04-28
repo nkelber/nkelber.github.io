@@ -3,9 +3,10 @@
 
 **Director**, [Text Analysis Pedagogy Institute](https://nkelber.github.io/tapi2021/book/intro.html)
 
+## Past Roles
+
 **Faculty**, Mike Ilitch School of Business, [Wayne State University](https://ilitchbusiness.wayne.edu/)
 
-## Past Roles
 **Digital Scholarship Specialist**, University Libraries at UNC Chapel Hill
 
 **Manager of Digital Projects**, Detroit Historical Society
@@ -28,6 +29,8 @@ View [my tutorials](https://constellate.org/tutorials), including:
 * LDA Topic Modeling
 * Sentiment Analysis with VADER
 
+## Past Projects
+
 ### [On the Books: Jim Crow and Algorithms of Resistance](https://onthebooks.lib.unc.edu/)
 A research project using machine-learning to discover Jim/Jane Crow congressional laws passed in the state of North Carolina. Funded by Andrew W. Mellon Foundation. [Learn more](https://www.youtube.com/watch?v=doyN6t7htlA).
 
@@ -37,15 +40,13 @@ A project to bring JSTOR content for free to prisoners pursuing higher education
 ### [Juncture](https://juncture-digital.org/)
 A free-to-use, open source framework for converting simple text files into an engaging visual essay. 
 
-## Past Projects
-
 ### [Detroit 67](https://detroit1967.org/)
 An IMLS medal-winning community history project to commemorate the 50th anniversary of the 1967 civil rights uprising in Detroit.
 
 ## Skills
 
 ### Soft
-Project management, community building, technical training, grant writing
+Public speaking, project management, community building, technical training, grant writing
 
 ### Hard
 Text Analysis, Python, SQL, Machine Learning, Data Visualization
