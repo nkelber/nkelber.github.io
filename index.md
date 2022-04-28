@@ -55,6 +55,6 @@ Text Analysis, Python, SQL, Machine Learning, Data Visualization
 * [Photo 1 (Large)](./KelberNathan1.jpg)
 * [Photo 1 (Small)](./KelberSmall.jpg)
 * [Photo 2 (Medium)](./Nate.jpeg)
-* [Blurb]()
+* [Blurb](./blurb.txt)
 
 ## [Full CV](https://docs.google.com/document/d/1yu_JzqxbjoY5akG_GB12rK56j9MRAKEUAFKcBu1_jU8/edit?usp=sharing)
