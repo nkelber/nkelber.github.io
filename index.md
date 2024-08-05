@@ -1,11 +1,11 @@
 ## Current Roles
 **Constellate Education Manager**, [JSTOR Labs](https://labs.jstor.org/)
 
-**Director**, [Text Analysis Pedagogy Institute](https://nkelber.github.io/tapi2021/book/intro.html)
+**Director**, [Text Analysis Pedagogy Institute](https://constellate.org/tap-institute)
 
 ## Past Roles
 
-**Faculty**, Mike Ilitch School of Business, [Wayne State University](https://ilitchbusiness.wayne.edu/)
+**Faculty**, Mike Ilitch School of Business, Wayne State University
 
 **Digital Scholarship Specialist**, University Libraries at UNC Chapel Hill
 
@@ -15,22 +15,13 @@
 
 ## Current Projects
 
-**[Text Analysis Pedagogy Institute (2021-2022)](https://nkelber.github.io/tapi2021/book/intro.html)**<br />
-A series of national workshops, to be hosted at the University of Virginia and the University of Arizona, on approaches for teaching computational text analysis. Funded by the National Endowment for the Humanities.
-
 **[Constellate](http://constellate.org)**<br />
-A platform for teaching and learning text analysis using Binder, Jupyter, and Python. 
-View [my tutorials](https://constellate.org/tutorials), including:
-
-* Getting Started with Jupyter Notebooks
-* Python Basics Series
-* Exploring Word Frequencies
-* Creating a Stopwords List
-* Finding Significant Words using TF/IDF
-* LDA Topic Modeling
-* Sentiment Analysis with VADER
+A platform for teaching and learning text analysis.
 
 ## Past Projects
+
+**Text Analysis Pedagogy Institute (2021-2022)**<br />
+A series of national workshops, to be hosted at the University of Virginia and the University of Arizona, on approaches for teaching computational text analysis. Funded by the National Endowment for the Humanities.
 
 **[On the Books: Jim Crow and Algorithms of Resistance](https://onthebooks.lib.unc.edu/)**<br />
 A research project using machine-learning to discover Jim/Jane Crow congressional laws passed in the state of North Carolina. Funded by Andrew W. Mellon Foundation. [Learn more](https://www.youtube.com/watch?v=doyN6t7htlA).
