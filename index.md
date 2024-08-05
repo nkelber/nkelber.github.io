@@ -44,7 +44,7 @@ Public speaking, community building, technical training
 Project planning, writing grant applications, managing grant projects
 
 **Programming**<br />
-Text Analysis, Python, SQL, Machine Learning, Data Visualization
+Text Analysis, Python, Artificial Intelligence, Machine Learning
 
 ## More Information
 
