@@ -43,5 +43,7 @@ Text Analysis, Python, Artificial Intelligence, Machine Learning
 
 ## More Information
 
+* **[Resume](https://docs.google.com/document/d/1pDEYnbAxx7Ql4lcwbXh6O698kCKkcaxAhb7jL3tnYQM/edit?usp=sharing)**
 * **[Media Kit](./media_kit.md)** (Blurb and photos for public appearances)
-* **[CV](https://docs.google.com/document/d/1yu_JzqxbjoY5akG_GB12rK56j9MRAKEUAFKcBu1_jU8/edit?usp=sharing)**
+* **Academic CV** Available upon request
+
