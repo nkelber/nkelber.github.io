@@ -36,7 +36,7 @@ A free-to-use, open source framework for converting simple text files into an en
 Public speaking, community building, technical training
 
 **Project Management**<br />
-Project planning, writing grant applications, managing grant projects
+Project planning, writing grant applications, managing grant projects, documentation
 
 **Programming**<br />
 Text Analysis, Python, Artificial Intelligence, Machine Learning
