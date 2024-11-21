@@ -16,6 +16,9 @@
 **[Constellate](http://constellate.org)**<br />
 A platform for teaching and learning text analysis.
 
+**[TAP Institute](https://constellate.org/tap-institute)**<br />
+An international institute on text analysis.
+
 ## Past Projects
 
 **[On the Books: Jim Crow and Algorithms of Resistance](https://onthebooks.lib.unc.edu/)**<br />
