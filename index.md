@@ -35,18 +35,19 @@ A free-to-use, open source framework for converting simple text files into an en
 
 ## Skills
 
-**Community Organizing**<br />
-Public speaking, community building, technical training
-
-**Project Management**<br />
-Project planning, writing grant applications, managing grant projects, documentation
-
-**Programming**<br />
-Text Analysis, Python, Artificial Intelligence, Machine Learning
+Project Management
+Community Building
+Technical and Professional Training
+Data Science
+Artificial Intelligence
+Software Development
+Grant, Policy, and Technical Writing
+Natural Language Processing
+Data Visualization
 
 ## More Information
 
-* **[Resume](https://docs.google.com/document/d/1pDEYnbAxx7Ql4lcwbXh6O698kCKkcaxAhb7jL3tnYQM/edit?usp=sharing)**
+* **[Resume](https://docs.google.com/document/d/152ldBQtT702xCzUCXDGdxP6IYDhvNPmkH9jIIG4dkWc/edit?usp=sharing)**
 * **[Media Kit](./media_kit.md)** (Blurb and photos for public appearances)
 * **Academic CV** (Available upon request)
 
