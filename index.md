@@ -35,15 +35,15 @@ A free-to-use, open source framework for converting simple text files into an en
 
 ## Skills
 
-Project Management
-Community Building
-Technical and Professional Training
-Data Science
-Artificial Intelligence
-Software Development
-Grant, Policy, and Technical Writing
-Natural Language Processing
-Data Visualization
+* Project Management
+* Community Building
+* Technical and Professional Training
+* Data Science
+* Artificial Intelligence
+* Natural Language Processing
+* Data Visualization
+* Software Development
+* Grant, Policy, and Technical Writing
 
 ## More Information
 
