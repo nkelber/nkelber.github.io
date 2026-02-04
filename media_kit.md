@@ -2,7 +2,7 @@
 
 ## Blurb
 
-Dr. Nathan Kelber is the Constellate Education Manager for JSTOR Labs and Director of the Text Analysis Pedagogy Institute. He is an international speaker and educator on "how to apply text analysis in higher education and cultural heritage institutions." Part digital humanist and part data scientist, his projects bridge research communities, improve access to open educational resources, and apply machine learning for social good.
+Dr. Nathan Kelber is a Senior Educator at Ithaka S+R, where he helps college and university communities develop the skills and strategies necessary to thrive in the age of artificial intelligence.
 
 ## Promotional photos
 * [Photo 1 (Large)](./KelberNathan1.jpg)
